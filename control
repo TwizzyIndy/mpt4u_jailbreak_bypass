@@ -1,0 +1,9 @@
+Package: com.twizzyindy.mpt4ujbypass
+Name: MPT4U Jailbreak Bypass
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: The jailbreak bypass tweak for MPT4U users
+Maintainer: TwizzyIndy
+Author: TwizzyIndy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
